@@ -8,8 +8,30 @@ My interest lies in the field of finance, statistics and computer sciences. I'm 
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathWorks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=vba&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+## 👩🏻‍💻 Interests
+- Volatility Prediction
+- Dynamic Practicing Model
+- Dynamic Hedging Strategy
+- Asset Allocation Strategy
+- Market Risk
+- Credit Risk
+- Anti-Money Laundering
+- Quant Finance Tool Development
+
+## 💻 GitHub Activities
+
+<a href="https://github.com/jingyihan/JingyiHan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyihan&hide=processing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=C0C0C0" />
+</a>
+
+
 <!--
 **jingyihan/JingyiHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://github.com/jingyihan/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyihan&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 Here are some ideas to get you started:
 
