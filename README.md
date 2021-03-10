@@ -6,8 +6,10 @@ My interest lies in the field of finance, statistics and computer sciences. I'm 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathWorks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=vba&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Office-Excel-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Office-Bloomberg-informational?style=flat&logo=bloomberg&logoColor=white&color=2bbc8a)
 
 ## 👩🏻‍💻 Interests
 - Volatility Prediction
