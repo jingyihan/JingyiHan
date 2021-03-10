@@ -1,6 +1,13 @@
 # Hello, this is Jingyi Han! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px">
 
 My interest lies in the field of finance, statistics and computer sciences. I'm currently working in the quantitative finance industry. I am sharing some of my works on this github account. Hope they can be helpful for other quants in the field!
+
+## 🛠 Skills
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathWorks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=vba&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <!--
 **jingyihan/JingyiHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
