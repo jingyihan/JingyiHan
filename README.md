@@ -25,7 +25,7 @@ My interest lies in the field of finance, statistics and computer science. I'm c
 ## 💻 GitHub Activities
 
 <a href="https://github.com/jingyihan/JingyiHan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyihan&hide=processing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=C0C0C0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyihan&hide=processing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=353535" />
 </a>
 
 
