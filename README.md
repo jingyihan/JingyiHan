@@ -7,7 +7,7 @@ My interest lies in the field of finance, statistics and computer science. I'm c
 [![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/jingyihan/FinancialProgramming)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 [![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathWorks&logoColor=white&color=2bbc8a)](https://github.com/jingyihan/PortfolioOptimization)
-![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)](https://github.com/jingyihan/VBAOptionPricing)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 [![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)](https://github.com/jingyihan/WetWorldDatabaseQuery)
 ![](https://img.shields.io/badge/Finance-Bloomberg-informational?style=flat&logo=bloomberg&logoColor=white&color=2bbc8a)
