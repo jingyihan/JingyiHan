@@ -1,6 +1,6 @@
 # Hello, this is Jingyi Han! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px">
 
-My interest lies in the field of finance, statistics and computer science. I'm currently working in the quantitative finance industry. I am sharing some of my works on this github account. Hope they can be helpful for other quants in the field!
+My interest lies in the field of finance, statistics and computer science. I'm currently working in the quantitative finance industry and working on enhancing my statistical modelling and data science skills. I am sharing some of my works on this github account. Hope they can be helpful for other quants and data scientist in the field!
 
 ## 🛠 Tools
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://github.com/jingyihan/IntegerValuedGARCH)
@@ -14,7 +14,7 @@ My interest lies in the field of finance, statistics and computer science. I'm c
 
 ## 👩🏻‍💻 Interests
 - Volatility Prediction
-- Dynamic Practicing Model
+- Dynamic Pricing Model
 - Dynamic Hedging Strategy
 - Asset Allocation Strategy
 - Market Risk
